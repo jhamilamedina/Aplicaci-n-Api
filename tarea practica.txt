@@ -1,0 +1,13 @@
+Crear app de Flask en donde se muestra una pantalla principal con dos botones, 
+si el usuario hace click en un boton lo redirige a otra paguina en donde
+puede ver 10 imagenes de gatitos(cada vez que se hace click en el boton las 
+imagenes deben de cambiar), y si el usuario hace click en el otro boton
+lo redirige a otra pag en donde se le muestra una frase motivadora.
+
+API para fotos de gatitos: https://api.thecatapi.com/v1/images/search?limit=10
+
+API para frases motivadoras: https://type.fit/api/quotes
+
+https://docs.python.org/3/library/random.html
+
+https://codeshare.io/4Y7Egb
